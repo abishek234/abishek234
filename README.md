@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 👨‍💻 My Portfolio is available at <a href="portfolioabi.netlify.app">[portfolioabi.netlify.app]</a>
+- 👨‍💻 My Portfolio is available at <a href="portfolioabi.netlify.app">portfolioabi.netlify.app</a>
 
 - 📫 How to reach me **avineshmtp@gmail.com**
 
