@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abishek234" alt="abishek234" /></a> </p>
 
-- 🔭 I’m currently working on **MERN/MEAN Stack Projects**
+- 🔭 I’m currently working on **MERN/PERN Stack Projects**
 
 - 🌱 I’m currently learning **Mobile Development**
 
